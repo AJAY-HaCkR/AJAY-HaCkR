@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m AJAY-HaCkR! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsqQxPQXHBiBEUU/giphy.gif" width="250" alt="Ichigo Kurosaki GIF" />
+  <img src="[https://media.giphy.com/media/26gsqQxPQXHBiBEUU/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FuenM5cW0yYXJ0YTQydmFoZzV0b3djams2eGhhbWEwZjV0czRmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KI14N7D3AJ4SA/giphy.gif)" width="250" alt="Ichigo Kurosaki GIF" />
 </p>
 
 ---
