@@ -28,7 +28,7 @@
 
 ## 💬 Fun Fact
 
-> 🧠 “I don’t follow the blueprint. I draw it. I fail fast, learn faster, and build what only I imagine.”  
+> 🧠 “I don’t follow the blueprint. I draw it. I fail fast, learn faster, and build what I imagine.”  
 > — Ajay, the HaCkR with a Vision
 
 ---
